@@ -1,0 +1,22 @@
+"config"
+{
+	"bindings"
+	{
+		"MWHEELUP"		"+jump"
+		"MWHEELDOWN"		"+jump"
+		"7"		"<unbound>"
+		"MOUSE4"		"slot7"
+		"8"		"<unbound>"
+		"6"		"slot6"
+		"MOUSE5"		"slot8"
+		"t"		"<unbound>"
+		"v"		"+spray_menu"
+		"`"		"<unbound>"
+		"SPACE"		"+voicerecord"
+		"n"		"noclip"
+		"x"		"+jump"
+		"k"		"sensitivity 999"
+		"l"		"sensitivity 1"
+		"/"		"toggleconsole"
+	}
+}
