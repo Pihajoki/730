@@ -2,8 +2,8 @@
 {
 	"setting.defaultres"		"1280"
 	"setting.defaultresheight"		"960"
-	"setting.refreshrate_numerator"		"164999"
-	"setting.refreshrate_denominator"		"1000"
+	"setting.refreshrate_numerator"		"180"
+	"setting.refreshrate_denominator"		"1"
 	"setting.fullscreen"		"1"
 	"setting.mat_vsync"		"0"
 	"setting.monitor_index"		"0"
@@ -30,6 +30,6 @@
 	"setting.videocfg_ao_detail"		"3"
 	"setting.videocfg_hdr_detail"		"-1"
 	"setting.videocfg_fsr_detail"		"0"
-	"setting.r_low_latency"		"1"
+	"setting.r_low_latency"		"0"
 	"setting.aspectratiomode"		"0"
 }

@@ -1,5 +1,79 @@
 <!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
 {
-	users = null
+	users = 
+	[
+		{
+			flags = 3
+			steamid = 76561198278106582
+		},
+		{
+			flags = 3
+			steamid = 76561198084341892
+		},
+		{
+			flags = 3
+			steamid = 76561198749198967
+		},
+		{
+			flags = 3
+			steamid = 76561199159771414
+		},
+		{
+			flags = 3
+			steamid = 76561198219379173
+		},
+		{
+			flags = 3
+			steamid = 76561199030173815
+		},
+		{
+			flags = 3
+			steamid = 76561199543970510
+		},
+		{
+			flags = 3
+			steamid = 76561198993476902
+		},
+		{
+			flags = 3
+			steamid = 76561199021361019
+		},
+		{
+			flags = 3
+			steamid = 76561198775191875
+		},
+		{
+			flags = 3
+			steamid = 76561199003052168
+		},
+		{
+			flags = 3
+			steamid = 76561198238597182
+		},
+		{
+			flags = 3
+			steamid = 76561198062899178
+		},
+		{
+			flags = 3
+			steamid = 76561199482591436
+		},
+		{
+			flags = 3
+			steamid = 76561199477509998
+		},
+		{
+			flags = 3
+			steamid = 76561198415901363
+		},
+		{
+			flags = 3
+			steamid = 76561199868593887
+		},
+		{
+			flags = 3
+			steamid = 76561199446438714
+		},
+	]
 	player_volume_map = null
 }
