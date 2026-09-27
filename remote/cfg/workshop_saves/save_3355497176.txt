@@ -1,0 +1,1 @@
+{"global":{"soundsMuted":0,"trailIndex":1,"fov":90},"maps":{"de_ancient":{"pbTicks":0,"length":6,"skips":0,"fails":0},"de_cache":{"pbTicks":0,"length":14,"skips":0,"fails":0,"timesFR":1,"timesTT":1}}}
